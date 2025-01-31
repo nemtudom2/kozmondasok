@@ -5,3 +5,10 @@ H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.AssemblyRefe
 H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.CoreCompileInputs.cache
 H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.exe
 H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.pdb
+H:\szin\kozmondasok\kozmondasok\bin\Debug\kozmondasok.exe.config
+H:\szin\kozmondasok\kozmondasok\bin\Debug\kozmondasok.exe
+H:\szin\kozmondasok\kozmondasok\bin\Debug\kozmondasok.pdb
+H:\szin\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.AssemblyReference.cache
+H:\szin\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.CoreCompileInputs.cache
+H:\szin\kozmondasok\kozmondasok\obj\Debug\kozmondasok.exe
+H:\szin\kozmondasok\kozmondasok\obj\Debug\kozmondasok.pdb
