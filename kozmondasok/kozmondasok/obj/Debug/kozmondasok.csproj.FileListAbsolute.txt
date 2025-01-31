@@ -1,0 +1,7 @@
+H:\asztaliasdf\kozmondasok\kozmondasok\bin\Debug\kozmondasok.exe.config
+H:\asztaliasdf\kozmondasok\kozmondasok\bin\Debug\kozmondasok.exe
+H:\asztaliasdf\kozmondasok\kozmondasok\bin\Debug\kozmondasok.pdb
+H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.AssemblyReference.cache
+H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.csproj.CoreCompileInputs.cache
+H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.exe
+H:\asztaliasdf\kozmondasok\kozmondasok\obj\Debug\kozmondasok.pdb

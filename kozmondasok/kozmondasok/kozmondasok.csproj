@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A9CB8D3-3678-49AB-B4FF-83DD94593C16}</ProjectGuid>
+    <ProjectGuid>{A8A080F7-2610-4B84-B392-9A8FE0417D33}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SzI_szintabla</RootNamespace>
-    <AssemblyName>SzI-szintabla</AssemblyName>
+    <RootNamespace>kozmondasok</RootNamespace>
+    <AssemblyName>kozmondasok</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
